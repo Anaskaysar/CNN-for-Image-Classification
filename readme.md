@@ -34,6 +34,8 @@ The CNN model consists of the following layers:
 
 ## Results
 
+More Details Can be Found [Here](https://medium.com/@kaysarulanas2/unleashing-the-power-of-cnns-classifying-cats-and-dogs-021a653c5b9b): 
+
 ### Training Performance
 <div style="display: flex;">
   <div style="margin: 10px; text-align: center;">
@@ -70,6 +72,13 @@ To run this project, the following Python libraries are required:
 - OpenCV (cv2)
 
 Ensure you have Python 3.7 or higher installed to maintain compatibility with the libraries.
+
+Note: I also shared requirements.txt file. With creating a virtual environment using 
+
+```
+pip install -r requirements.txt
+```
+this proeject can be run on any machine.
 
 ---
 ## Usage

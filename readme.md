@@ -37,11 +37,11 @@ The CNN model consists of the following layers:
 ### Training Performance
 <div style="display: flex;">
   <div style="margin: 10px; text-align: center;">
-    <img src="images/Training_Accuracy.png" alt="Training Accuracy" width="400"/>
+    <img src="images/Training_accuracy.png" alt="Training Accuracy" width="400"/>
     <p>Training and Validation Accuracy</p>
   </div>
   <div style="margin: 10px; text-align: center;">
-    <img src="images/Training_Loss.png" alt="Training Loss" width="400"/>
+    <img src="images/Training_loss.png" alt="Training Loss" width="400"/>
     <p>Training and Validation Loss</p>
   </div>
 </div>
